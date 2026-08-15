@@ -1,0 +1,5 @@
+interface:
+  display_name: "散装江苏"
+  short_description: "围绕江苏十三城与县区关系生成有事实底座的地域梗创意"
+  default_prompt: "使用 $sanzhuang-jiangsu 为一组江苏城市或县区关系生成有事实底座的地域梗创意。"
+
