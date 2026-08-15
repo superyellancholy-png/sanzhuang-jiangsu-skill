@@ -1,0 +1,27 @@
+{
+  "name": "sanzhuang-jiangsu",
+  "version": "0.1.0",
+  "description": "江苏十三城、城市关系和县区级地域梗创意脑暴插件",
+  "author": {
+    "name": "superyellancholy-png",
+    "url": "https://github.com/superyellancholy-png"
+  },
+  "homepage": "https://github.com/superyellancholy-png/sanzhuang-jiangsu-skill",
+  "repository": "https://github.com/superyellancholy-png/sanzhuang-jiangsu-skill",
+  "keywords": ["江苏", "城市", "地域梗", "苏超", "创意脑暴"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "散装江苏",
+    "shortDescription": "江苏十三城与县区地域梗创意脑暴",
+    "longDescription": "从十三城自梗、城市关系、行政沿革、方言饮食、交通车牌、人物典故和县区素材出发，生成有事实底座且不过界的江苏城市创意。",
+    "developerName": "superyellancholy-png",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "给两座江苏城市脑暴有事实底座的关系梗。",
+      "为一场苏超对阵设计海报和短视频创意。",
+      "从地级市下钻到县区寻找更具体的城市梗。"
+    ]
+  }
+}
+
